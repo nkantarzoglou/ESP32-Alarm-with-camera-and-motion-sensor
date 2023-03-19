@@ -1,4 +1,4 @@
-A simple application built using Arduino IDE.
+# Camera and Motion Sensor Alarm [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=AGD8AB4FB6YDU)  
 
 The aim of this is to create a security camera using an ESP32-CAM as well as a motion sensor.
 
